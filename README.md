@@ -9,11 +9,28 @@
 
 <p align="center">
 Welcome to my GitHub profile! I'm a passionate <strong>Web Developer</strong> and <strong>Game Developer</strong> from Sri Lanka. With a love for learning, I explore everything from <strong>programming and design</strong> to <strong>game development</strong> and <strong>AI</strong>. Here's a little more about me and the tools I work with:
+
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="40%" />
 </p>
+
+<h1>About Me! 😎</h1>
+
+- 🏫: I'm a grade 10, High School Student from Sri Lanka.
+- 🔭: I’m currently working on game development, web development, and AI projects. 🎮💻🤖
+- 🌱: I’m currently learning game development in Unity, web development (HTML, CSS, JavaScript), and exploring AI. 🧠💻⚙️
+- 🤔: I’m looking for help with any game development, web dev, or AI-related projects! 😅🤝
+- 💬: Ask me about Unity, C#, web development, SQL databases, and AI topics. 💬📚💡
+- 😄  Pronouns: He/His
+- ⚡  Fun fact: I enjoy playing the Piano 🎹 and Guitar 🎸!
+- 📚: Currently studying Combinatorics, Business, and Accounting.
+
+<hr>
+
+
+
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -84,3 +101,5 @@ Welcome to my GitHub profile! I'm a passionate <strong>Web Developer</strong> an
 
 <br>
 <p align="centre">
+
+
