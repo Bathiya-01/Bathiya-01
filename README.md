@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate <strong>Web Developer</strong> an
 - ⚡  Fun fact: I enjoy playing the Piano 🎹 and Guitar 🎸!
 - 📚: Currently studying Combinatorics, Business, and Accounting.
 
-<hr>
+
 
 
 
@@ -91,7 +91,6 @@ Welcome to my GitHub profile! I'm a passionate <strong>Web Developer</strong> an
 </p>
 
 <br>
-
  <hr>
                                                                                                                                                      
 
