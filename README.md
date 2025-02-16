@@ -27,7 +27,43 @@ Welcome to my GitHub profile! I'm a passionate <strong>Web Developer</strong> an
 - ⚡  Fun fact: I enjoy playing the Piano 🎹 and Guitar 🎸!
 - 📚: Currently studying Combinatorics, Business, and Accounting.
 <br>
- <h1>Connect with Me: 📫</h1>
+ 
+ <h1> Skills & Technologies 🛠️  </h1> 
+
+ ### 💻 Development:
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+**Languages**: 
+<br>
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Frameworks & Engines**:  
+<br>
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Databases**:  
+<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**Tools**:  
+<br>
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
+
+### 🎮 Game Development:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+**Game Engine**:  
+<br>
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+
+**3D Modeling & Animation**:
+<br>
+<br>
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
+
+
+<h1>Connect with Me: 📫</h1>
 <p></p>
 <p align="center">
   <a href="https://github.com/Bathiya-01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -38,21 +74,11 @@ Welcome to my GitHub profile! I'm a passionate <strong>Web Developer</strong> an
 
 </p>
 
-
-
-
-
-
-
-
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
   <br>
 
-  
-  
-  
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
@@ -107,7 +133,6 @@ Welcome to my GitHub profile! I'm a passionate <strong>Web Developer</strong> an
  <hr>
                                                                                                                                                      
 
-  
 
 
 
