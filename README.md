@@ -26,6 +26,19 @@ Welcome to my GitHub profile! I'm a passionate <strong>Web Developer</strong> an
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: I enjoy playing the Piano 🎹 and Guitar 🎸!
 - 📚: Currently studying Combinatorics, Business, and Accounting.
+<br>
+ <h1>Connect with Me: 📫</h1>
+<p></p>
+<p align="center">
+  <a href="https://github.com/Bathiya-01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://discord.com/users/heshan_12"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://twitter.com/MadushikaP79111"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://wa.me/94721064209"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=madushikapaba@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+</p>
+
+
 
 
 
