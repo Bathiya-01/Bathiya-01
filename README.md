@@ -1,10 +1,4 @@
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://via.placeholder.com/150/000000/FFFFFF?text=Dark+Mode">
-    <source media="(prefers-color-scheme: light)" srcset="https://via.placeholder.com/150/FFFFFF/000000?text=Light+Mode">
-    <img src="https://via.placeholder.com/150/CCCCCC/000000?text=Default" alt="Theme-based Image">
-  </picture>
-
-<p align="left">
+ <p align="left">
   <strong>Profile Views :</strong>
   <br><br> <!-- Adds extra space between the text and the image -->
   <img src="https://profile-counter.glitch.me/Bathiya-01/count.svg" />
@@ -152,6 +146,3 @@ Welcome to my GitHub profile! I'm a passionate <strong>Web Developer</strong> an
 </div>
 
 ![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
-
-
-
